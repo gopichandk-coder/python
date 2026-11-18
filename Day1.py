@@ -1,4 +1,4 @@
-# #Day1 Printing, Commenting, Debugging, String Manupulation and Variables8
+# #Day1 Printing, Commenting, Debugging, String Manupulation and Variables
 
 # #Printing
 # print("Hello, World!")
